@@ -11,5 +11,5 @@ print(random.randint(4,9))
 
 print(round(random.random()*5,3))
 
-#Shuffle any list or tuple using random.shuffle 
+
 
