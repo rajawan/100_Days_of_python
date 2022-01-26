@@ -13,6 +13,3 @@ print(round(random.random()*5,3))
 
 #Shuffle any list or tuple using random.shuffle 
 
-print(sequence)
-new_list=random.shuffle(sequence)
-print(new_list)
